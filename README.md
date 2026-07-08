@@ -211,8 +211,8 @@ Through this project, I learned:
 - Package management using npm
 
 
-GitHub: https://github.com/Vani-0703
-https://smartexpense-tracker-app.vercel.app/
+# GitHub: https://github.com/Vani-0703;
+ # deployed : https://smartexpense-tracker-app.vercel.app/
 
 ---
 
